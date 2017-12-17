@@ -12,5 +12,5 @@ while win == False:
         print("%d is too small" % answer)
 
     if answer == number:
-        print("牛逼!")
+        print("Excellent! %d is the right answer" % answer)
         win == True
