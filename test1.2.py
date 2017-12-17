@@ -1,3 +1,3 @@
 print("What's your name?")
-name = int(input())
+name = input()
 print("Your name is %d" % name)
