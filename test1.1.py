@@ -24,5 +24,5 @@ while True:
             break
 
     if answer == number:
-        print("Excellent! %d is the right answer" % answer)
+        print("%d is the right answer" % answer)
         break
