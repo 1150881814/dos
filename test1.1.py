@@ -1,9 +1,8 @@
 from random import  randint
 number = randint(1,100)
-win = False
 print("guess")
-winpoint = 3
-while win == False:
+winpoint = 5
+while True:
     answer = int(input())
 
     if answer > number:
