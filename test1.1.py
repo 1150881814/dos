@@ -1,7 +1,7 @@
 from random import  randint
 number = randint(1,100)
 print("guess")
-winpoint = 5
+winpoint = 7
 while True:
     answer = int(input())
 
